@@ -1,0 +1,14 @@
+/Users/marysmith/todo-list-manager/todo-list-manager/bin/Debug/net8.0/todo-list-manager
+/Users/marysmith/todo-list-manager/todo-list-manager/bin/Debug/net8.0/todo-list-manager.deps.json
+/Users/marysmith/todo-list-manager/todo-list-manager/bin/Debug/net8.0/todo-list-manager.runtimeconfig.json
+/Users/marysmith/todo-list-manager/todo-list-manager/bin/Debug/net8.0/todo-list-manager.dll
+/Users/marysmith/todo-list-manager/todo-list-manager/bin/Debug/net8.0/todo-list-manager.pdb
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.AssemblyInfoInputs.cache
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.AssemblyInfo.cs
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.csproj.CoreCompileInputs.cache
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.dll
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/refint/todo-list-manager.dll
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.pdb
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.genruntimeconfig.cache
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/ref/todo-list-manager.dll

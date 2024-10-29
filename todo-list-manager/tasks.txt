@@ -1,0 +1,4 @@
+Do dishes|False
+Clean bedroom|False
+Do school|False
+Wrestle Shane|False
