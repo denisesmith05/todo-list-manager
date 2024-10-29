@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("todo-list-manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af5cd2d07cf0d961acf10e5d925532f12594b381")]
 [assembly: System.Reflection.AssemblyProductAttribute("todo-list-manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("todo-list-manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

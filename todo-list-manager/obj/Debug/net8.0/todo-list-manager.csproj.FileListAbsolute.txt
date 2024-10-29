@@ -12,3 +12,4 @@
 /Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.pdb
 /Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.genruntimeconfig.cache
 /Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/ref/todo-list-manager.dll
+/Users/marysmith/todo-list-manager/todo-list-manager/obj/Debug/net8.0/todo-list-manager.sourcelink.json

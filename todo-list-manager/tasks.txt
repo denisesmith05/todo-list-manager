@@ -1,4 +1,5 @@
+Clean bedroom|True
+Do school|True
 Do dishes|False
-Clean bedroom|False
-Do school|False
-Wrestle Shane|False
+Workout|False
+Make primary lesson|False
