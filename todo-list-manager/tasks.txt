@@ -1,5 +1,1 @@
-Clean bedroom|True
-Do school|True
-Do dishes|False
-Workout|False
-Make primary lesson|False
+tasks.txt
